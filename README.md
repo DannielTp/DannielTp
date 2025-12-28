@@ -21,5 +21,5 @@ I am passionate about crafting robust, user-friendly solutions and constantly le
 - Instagram [@danieltourinho_](https://instagram.com/danieltourinho_)
 - Discord [@dannieltp](https://discordapp.com/users/387693543004831744)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielTp&layout=compact&theme=radical)
+## Stats
+![Stats](https://githubcard.com/dannieltp.svg)
